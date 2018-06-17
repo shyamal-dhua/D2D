@@ -1,0 +1,14 @@
+{
+	"Rc" : 500,
+	"ntiers" : 0,
+	"Pc" : 0.25,
+	"bw" : 160e3,
+	"N_dBm" : -174,
+	"tSNR_dB" : 7.7,
+	"Nc" : 20,
+	"Nd" : 20,
+	"Nrb" : 25,
+	"RWindowSize" : 50,
+	"d2dDistance" : 30,
+	"rbPerD2DPair" : 1
+}
